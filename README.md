@@ -1,6 +1,6 @@
 # GCASeg
 
-Code of our paper "Federated Chinese Word Segmentation with Global Character Associations" at ACL 2021
+Code of our paper [Federated Chinese Word Segmentation with Global Character Associations](https://aclanthology.org/2021.findings-acl.376/) at ACL 2021
 
 ## Citation
 
